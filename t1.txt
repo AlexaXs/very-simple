@@ -1,3 +1,3 @@
 T1-Line 1
-T1-Line 2
+T1-Line 2-conflict
 T1-Line 3
